@@ -1,0 +1,14 @@
+uuid: 67de3348-df7c-4b1d-a46f-e225cf95f10b
+name: d8-test-tool-01
+mail: orlando.ayeras@pantheon.io
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
